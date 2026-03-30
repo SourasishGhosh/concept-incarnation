@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic documentary photography, shot on a 35mm lens, hyper-realistic, highly detailed. A lone hiker traversing a steep, treacherous, rocky mountain slope at cold twilight. The hiker is completely blindfolded with a thick, heavy cloth, arms extended cautiously, using only the physical sensation of the uneven ground beneath their heavy boots to feel for the steepest downward angle, taking a hesitant step in that exact direction. The immediate surroundings are swallowed by dense, impenetrable, thick white fog, restricting all visibility to just a few feet. However, a brief, faint break in the fog in the extreme far background reveals a vast, complex landscape with multiple different peaks, ridges, and a much deeper, massive valley far below. The blindfolded hiker is currently descending into a shallow, high-altitude bowl, physically unable to see the true deepest valley in the distance. Moody, atmospheric lighting with deep shadows and cold blue tones. Absolutely no text, no words, no letters, no numbers, no arrows, no charts, no lines, no floating elements, no labels.",
+  "model": "Nano Banana Pro",
+  "concept": "Gradient Descent",
+  "metaphor": "A blindfolded hiker feeling for the steepest downward slope in dense fog. The blindfold and fog map to lacking global knowledge; stepping downhill maps to optimizing local gradients."
+}
